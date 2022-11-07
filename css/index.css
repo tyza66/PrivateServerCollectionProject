@@ -51,3 +51,23 @@
 .sources {
     margin: 0 auto;
 }
+
+.about {
+    margin: 0 auto;
+}
+
+.about p{
+    margin: 0 auto;
+    text-align: center;
+}
+.about a{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.zsm {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 250px;
+}
