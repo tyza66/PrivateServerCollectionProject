@@ -1,8 +1,7 @@
 # PrivateServerCollectionProject
 ### 私人服务器收集计划
 - [![tyza66.github.io/PrivateServerCollectionProject/](https://img.shields.io/badge/tyza66.github.io/PrivateServerCollectionProject/-grey)](https://tyza66.github.io/PrivateServerCollectionProject/)  
-- [!shun152.gitee.io/privateservercollectionproject/](https://img.shields.io/badge/shun152.gitee.io/privateservercollectionproject/-grey)](http://shun152.gitee.io/privateservercollectionproject/)  
-
+- [![shun152.gitee.io/privateservercollectionproject/](https://img.shields.io/badge/shun152.gitee.io/privateservercollectionproject/-grey)](http://shun152.gitee.io/privateservercollectionproject/)  
 ![](https://raw.githubusercontent.com/tyza66/PrivateServerCollectionProject/main/images/title.jpg)  
 这是一个公益项目，目的是产生一个自建服务器（软件，接口，游戏等服务）的汇总，以便于查询，使用，游玩等。  
 ##### 查找服务器
