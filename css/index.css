@@ -1,0 +1,53 @@
+.help {
+    margin: 0 auto;
+}
+
+.help .image {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 120px;
+}
+
+.help h2 {
+    text-align: center;
+}
+
+.help p {
+    text-align: center;
+}
+
+.help h3 {
+    text-align: center;
+}
+
+.servers {
+    margin: 0 auto;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.item {
+    margin-bottom: 18px;
+}
+
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    content: "";
+}
+
+.clearfix:after {
+    clear: both
+}
+
+.box-card {
+    width: 96%;
+    margin: 0 auto;
+}
+
+.sources {
+    margin: 0 auto;
+}
