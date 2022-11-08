@@ -1,0 +1,37 @@
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.background {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../images/1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: block;
+    float: left;
+}
+.title{
+    text-align: center;
+    color: aqua;
+    margin-top: 10vh;
+}
+.paragraph{
+    text-align: center;
+    font-size: 45;
+    margin-top: 10px;
+    color: aliceblue;
+}
+a{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.info {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 20vw;
+}
